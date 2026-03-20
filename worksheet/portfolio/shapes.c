@@ -14,3 +14,9 @@ Point makePoint( float x, float y ) {
 // - start with stubs as above
 // - compile regularly to test syntax
 // - test functions by calling them from main()
+
+Point makePoint( float x, float y ) {
+    Point new;
+    // implementation
+    return new;
+}
